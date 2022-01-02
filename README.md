@@ -25,7 +25,7 @@ insult them.
 
 </p>
 
-## Tools Used:
+## Tools Used: 
 * Tensorflow
 * Keras
 * h5py
